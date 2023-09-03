@@ -1,2 +1,2 @@
 # Compiler
-Making a compiler named "ILang"
+Making a compiler named "iLang"
